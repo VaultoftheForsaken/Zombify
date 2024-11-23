@@ -1,4 +1,4 @@
-# Zombify Plugin
+# Zombify Plugin for SCP SL
 
 The **Zombify** plugin enables SCP-049 to transform human players (such as Class D, Scientists, MTF, etc.) into SCP-049-2 (Zombies) upon death. The plugin automatically adjusts the player's health, max health, and Hume Shield when they are zombified.
 
