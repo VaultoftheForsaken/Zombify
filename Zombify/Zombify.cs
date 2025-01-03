@@ -47,6 +47,8 @@ namespace Zombify
 
                 // Convert the player to SCP-049-2
                 ev.Player.Role.Set(RoleTypeId.Scp0492);
+                ev.Player.MaxHealth = 400;
+                ev.Player.HumeShield = 100;
 
                 // Notify SCP-049 about the zombification
                 Notify049(ev.Player.Nickname, ev.Attacker);
