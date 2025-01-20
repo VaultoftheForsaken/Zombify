@@ -5,7 +5,7 @@ The **Zombify** plugin enables SCP-049 to transform human players (such as Class
 ## Features
 
 - **Automatic Zombification**: When a human player is killed by SCP-049, their role is automatically changed to SCP-049-2 (Zombie).
-- **Health Restoration**: Zombified players receive a full health restoration with 100 health, max health, and Hume Shield.
+- **Health Restoration**: Zombified players receive a full health restoration, max health, and max Hume Shield.
 - **Role Eligibility**: The plugin only zombifies players in specific roles, including Class D, Scientists, MTF (Specialists, Sergeants), and Chaos Insurgents.
 
 ## Installation
