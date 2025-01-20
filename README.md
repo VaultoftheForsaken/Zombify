@@ -31,7 +31,7 @@ The default configuration will be automatically generated on first startup.
 ## Example:
 
 - SCP-049 kills a player from an eligible role (e.g., Class D).
-- The player is instantly zombified into SCP-049-2 with 100 health, max health, and Hume Shield.
+- The player is instantly zombified into SCP-049-2 with, max health, and max Hume Shield.
 
 ## Compatibility
 
